@@ -3,6 +3,9 @@
 リンゴやピーマンは水に浮くのに、ジャガイモや大根は沈むのはなぜか。それを子ども向けに説明する、約2分半の動画です。Remotion で作っています。
 
 - 完成動画: `out/ukabu_shizumu.mp4`
+- 公開用タイトル: **うかぶ？しずむ？ やさいとくだもののふしぎ【こども科学】**（`video_title.txt`）
+- サムネイル: `thumbnail.png`
+- サムネイルの生成プロンプト: `thumbnail_prompt.txt`（image_gen で生成）
 - 台本（ナレーション読み・字幕）: `scenes.json`
 - 画面: `src/`
 
