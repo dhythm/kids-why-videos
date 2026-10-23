@@ -1,0 +1,11 @@
+intro 223
+weight 585
+buoyancy 932
+rule 1267
+apple 1731
+pepper 1958
+potato 2321
+daikon 2652
+ground 3024
+experiment 3500
+summary 3976
