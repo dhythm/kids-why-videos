@@ -1,0 +1,15 @@
+import { Composition } from "remotion";
+import { Main, TOTAL_FRAMES } from "./Main";
+
+export function Root() {
+  return (
+    <Composition
+      id="Kangaroo"
+      component={Main}
+      durationInFrames={TOTAL_FRAMES}
+      fps={30}
+      width={1920}
+      height={1080}
+    />
+  );
+}

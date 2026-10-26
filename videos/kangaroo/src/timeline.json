@@ -1,0 +1,164 @@
+[
+ {
+  "id": "intro",
+  "frames": 293,
+  "lines": [
+   {
+    "file": "voice/intro_0.wav",
+    "sub": "ぴょーん！ ぴょーん！",
+    "from": 18,
+    "frames": 48
+   },
+   {
+    "file": "voice/intro_1.wav",
+    "sub": "カンガルーは どうして ぴょんぴょん はねて すすむのかな？",
+    "from": 77,
+    "frames": 118
+   },
+   {
+    "file": "voice/intro_2.wav",
+    "sub": "いっしょに ひみつを さがしてみよう！",
+    "from": 205,
+    "frames": 65
+   }
+  ]
+ },
+ {
+  "id": "legs",
+  "frames": 453,
+  "lines": [
+   {
+    "file": "voice/legs_0.wav",
+    "sub": "ひみつ その1：あしの「ばね」",
+    "from": 18,
+    "frames": 105
+   },
+   {
+    "file": "voice/legs_1.wav",
+    "sub": "うしろあしは とっても ながくて つよい",
+    "from": 134,
+    "frames": 138
+   },
+   {
+    "file": "voice/legs_2.wav",
+    "sub": "あしの うしろには ゴムみたいに のびる すじが あるよ",
+    "from": 282,
+    "frames": 147
+   }
+  ]
+ },
+ {
+  "id": "spring",
+  "frames": 437,
+  "lines": [
+   {
+    "file": "voice/spring_0.wav",
+    "sub": "おりると すじが ぎゅーっと のびて ちからを ためる",
+    "from": 18,
+    "frames": 154
+   },
+   {
+    "file": "voice/spring_1.wav",
+    "sub": "びよーんと もどって からだを ぽーん！",
+    "from": 182,
+    "frames": 152
+   },
+   {
+    "file": "voice/spring_2.wav",
+    "sub": "トランポリンと にているね",
+    "from": 344,
+    "frames": 68
+   }
+  ]
+ },
+ {
+  "id": "energy",
+  "frames": 686,
+  "lines": [
+   {
+    "file": "voice/energy_0.wav",
+    "sub": "ひみつ その2：はやく はねても つかれにくい",
+    "from": 18,
+    "frames": 142
+   },
+   {
+    "file": "voice/energy_1.wav",
+    "sub": "はねる はやさを じそく9キロ → 22キロ に あげてみた",
+    "from": 170,
+    "frames": 218
+   },
+   {
+    "file": "voice/energy_2.wav",
+    "sub": "それでも つかう「いき」の りょうは ほとんど かわらなかった",
+    "from": 399,
+    "frames": 137
+   },
+   {
+    "file": "voice/energy_3.wav",
+    "sub": "ばねが ちからを つかいまわして くれるから",
+    "from": 546,
+    "frames": 115
+   }
+  ]
+ },
+ {
+  "id": "tail",
+  "frames": 359,
+  "lines": [
+   {
+    "file": "voice/tail_0.wav",
+    "sub": "ひみつ その3：しっぽは「5ほんめの あし」",
+    "from": 18,
+    "frames": 120
+   },
+   {
+    "file": "voice/tail_1.wav",
+    "sub": "ゆっくり うごく ときは しっぽで ささえて まえに おす",
+    "from": 149,
+    "frames": 186
+   }
+  ]
+ },
+ {
+  "id": "australia",
+  "frames": 402,
+  "lines": [
+   {
+    "file": "voice/australia_0.wav",
+    "sub": "オーストラリアは ひろくて かわいた ばしょが おおい",
+    "from": 18,
+    "frames": 167
+   },
+   {
+    "file": "voice/australia_1.wav",
+    "sub": "とおくまで さがしに いくには つかれにくい ジャンプが ぴったり",
+    "from": 195,
+    "frames": 182
+   }
+  ]
+ },
+ {
+  "id": "outro",
+  "frames": 429,
+  "lines": [
+   {
+    "file": "voice/outro_0.wav",
+    "sub": "あしの ばねで ぽーん　しっぽで ささえて　つかれにくい",
+    "from": 18,
+    "frames": 154
+   },
+   {
+    "file": "voice/outro_1.wav",
+    "sub": "だから カンガルーは ぴょんぴょん はねて すすむんだね！",
+    "from": 182,
+    "frames": 120
+   },
+   {
+    "file": "voice/outro_2.wav",
+    "sub": "きみも ばねに なったつもりで ジャンプ してみよう！",
+    "from": 313,
+    "frames": 92
+   }
+  ]
+ }
+]
