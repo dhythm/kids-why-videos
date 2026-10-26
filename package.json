@@ -1,0 +1,11 @@
+{
+  "name": "kids-why-videos",
+  "private": true,
+  "description": "こどもの「なんで？」に こたえる モーショングラフィックス動画シリーズ（Remotion）",
+  "workspaces": [
+    "videos/*"
+  ],
+  "scripts": {
+    "test": "npm test --workspaces --if-present"
+  }
+}
