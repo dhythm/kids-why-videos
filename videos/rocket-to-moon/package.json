@@ -1,0 +1,39 @@
+{
+  "name": "rocket-to-moon",
+  "version": "1.0.0",
+  "description": "こども向け「ロケットが月に行くまで」モーショングラフィックス動画（Remotion + three.js）",
+  "repository": {},
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@react-three/fiber": "^9.8.2",
+    "@remotion/cli": "4.0.535",
+    "@remotion/google-fonts": "4.0.535",
+    "@remotion/media": "4.0.535",
+    "@remotion/three": "4.0.535",
+    "@remotion/transitions": "4.0.535",
+    "@types/three": "^0.186.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.535",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.535",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "eslint": "9.39.5",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "upgrade": "remotion upgrade",
+    "lint": "eslint src && tsc",
+    "bgm": "python3 scripts/make_bgm.py public/bgm.wav && ffmpeg -v error -y -i public/bgm.wav -b:a 192k public/bgm.mp3 && rm -f public/bgm.wav",
+    "voiceover": "node --env-file=.env scripts/generate-voiceover.ts",
+    "test": "node --test src/lib/*.test.ts",
+    "render": "npm run bgm && remotion render RocketToMoon out/rocket_to_moon.mp4 --gl=angle --codec=h264 --crf=20 --audio-bitrate=192k"
+  }
+}
