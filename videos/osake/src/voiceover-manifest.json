@@ -1,0 +1,118 @@
+{
+  "s01_a": {
+    "duration": 3.727052,
+    "hash": "005b14aa22a0"
+  },
+  "s01_b": {
+    "duration": 2.640385,
+    "hash": "839f1fdb58be"
+  },
+  "s01_c": {
+    "duration": 4.021338,
+    "hash": "4b02b5b06e65"
+  },
+  "s01_d": {
+    "duration": 2.337574,
+    "hash": "76ce08a60d11"
+  },
+  "s02_a": {
+    "duration": 2.557415,
+    "hash": "a5f479bfc1c0"
+  },
+  "s02_b": {
+    "duration": 1.871905,
+    "hash": "30babc7f6755"
+  },
+  "s02_c": {
+    "duration": 1.777392,
+    "hash": "80daede17160"
+  },
+  "s02_d": {
+    "duration": 1.60941,
+    "hash": "ed09baba6f6c"
+  },
+  "s03_a": {
+    "duration": 2.967551,
+    "hash": "56ed13668ea7"
+  },
+  "s03_b": {
+    "duration": 3.677891,
+    "hash": "edbaf7323e7a"
+  },
+  "s03_c": {
+    "duration": 3.639773,
+    "hash": "21685774e9a1"
+  },
+  "s03_d": {
+    "duration": 3.942381,
+    "hash": "f88d11eaff47"
+  },
+  "s04_a": {
+    "duration": 4.27907,
+    "hash": "7c3847cf81b7"
+  },
+  "s04_b": {
+    "duration": 4.782698,
+    "hash": "c92ce4451c16"
+  },
+  "s05_a": {
+    "duration": 4.329751,
+    "hash": "b7afe86faa45"
+  },
+  "s05_b": {
+    "duration": 2.65229,
+    "hash": "e6a9dbcea486"
+  },
+  "s06_a": {
+    "duration": 5.559887,
+    "hash": "b08447cfd742"
+  },
+  "s06_b": {
+    "duration": 5.346417,
+    "hash": "a63f675f543d"
+  },
+  "s06_c": {
+    "duration": 2.493469,
+    "hash": "c05ed0247b8a"
+  },
+  "s07_a": {
+    "duration": 3.216825,
+    "hash": "2cad434b48e1"
+  },
+  "s07_b": {
+    "duration": 3.94873,
+    "hash": "718b810eb2bc"
+  },
+  "s07_c": {
+    "duration": 5.400862,
+    "hash": "a80dbd530a80"
+  },
+  "s08_a": {
+    "duration": 2.989546,
+    "hash": "65f0953e4a4e"
+  },
+  "s08_b": {
+    "duration": 4.251497,
+    "hash": "0c4e244679df"
+  },
+  "s08_c": {
+    "duration": 5.590181,
+    "hash": "db97d0b430a3"
+  },
+  "s09_a": {
+    "duration": 3.760045,
+    "hash": "bd6a688e3c45"
+  },
+  "s09_b": {
+    "duration": 3.588118,
+    "hash": "838c86d380a7"
+  },
+  "s10_a": {
+    "duration": 5.48678,
+    "hash": "0d181ca5fdbc"
+  },
+  "s10_b": {
+    "duration": 4.995488,
+    "hash": "ca805592638a"
+  }
+}
