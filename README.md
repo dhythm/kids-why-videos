@@ -11,6 +11,7 @@
 | カンガルーは どうして ぴょんぴょん はねるの？ | [videos/kangaroo](videos/kangaroo) |
 | にわとりの たまごは どうやって できるの？ | [videos/niwatori-tamago](videos/niwatori-tamago) |
 | おさけって なーに？ | [videos/osake](videos/osake) |
+| うずしおって なあに？ | [videos/uzushio](videos/uzushio) |
 
 ## 使いかた
 
