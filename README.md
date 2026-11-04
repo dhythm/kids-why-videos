@@ -12,6 +12,7 @@
 | にわとりの たまごは どうやって できるの？ | [videos/niwatori-tamago](videos/niwatori-tamago) |
 | おさけって なーに？ | [videos/osake](videos/osake) |
 | うずしおって なあに？ | [videos/uzushio](videos/uzushio) |
+| しゅわって なあに？ | [videos/shuwa](videos/shuwa) |
 
 ## 使いかた
 
