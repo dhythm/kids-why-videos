@@ -1,0 +1,15 @@
+生成方法: built-in image_gen
+用途: YouTube サムネイル
+納品サイズ: 1280x720
+
+Use case: ads-marketing
+Asset type: Finished Japanese YouTube thumbnail for an existing preschool nature education video. Wide landscape exactly 16:9, ideally 1536x864.
+Primary request: A beautiful eye-catching friendly thumbnail for the video "くものすって どうやって つくるの？" about how an orb-weaving spider builds a web, for Japanese children aged 4–6.
+Input image: /Users/yuta.okada/local/dev/kids-why-videos/videos/uzushio/thumbnail.jpg is a STYLE REFERENCE ONLY. Match its polished textured Japanese picture-book illustration, appealing rounded child face, extremely bold blue and orange Japanese headline with thick white outline and navy drop shadow. Create entirely new nature scene.
+Scene: Fresh sunlit garden in green and teal, soft foliage backdrop with enough darker teal behind the web for strong contrast. A large beautifully recognizable circular orb web suspended between thin natural tree branches, white-silver radiating spokes and spiral silk threads with just a few glistening dew drops. The web has one coherent center, accurate orb-web geometry, not concentric disconnected circles. A cute golden-yellow spider with an orange head, rounded striped abdomen and EXACTLY eight individually readable legs, four each side, walks on the web. Spider friendly and substantial, clearly recognizable at small size. Preserve natural spider body structure, no human arms.
+Subject: A curious Japanese child with short dark brown hair, yellow top, blue trousers, round smiling amazed face, visible lower-left looking toward the web. Child observes without touching or damaging it. Large orb web and cheerful eight-legged spider dominate right half. Spider positioned near the middle-right, not at the bottom-right.
+Composition: Wide 16:9. Huge clean headline stacked on left and upper-middle, approximately left 53 percent. Web occupies the right 53 percent, central and prominent from upper right to lower middle, unobscured by title. Child occupies lower-left quarter. Maintain visual hierarchy, saturated readable title, clean bright subject silhouettes. All lettering inside 4 percent safe margin. Do not hide essential subjects in bottom-right duration overlay.
+Text (verbatim): three balanced lines "くものす" / "どうやって" / "つくるの？". "くものす" rich royal blue, the other two lines warm vivid orange. Beautiful huge extra-bold rounded Japanese type, thick white outlines and subtle crisp navy drop shadows. Text correct and immediately readable when reduced to thumbnail size.
+Style: Polished colorful Japanese children's picture-book illustration, soft painterly gouache textures with crisp bold forms, bright natural lighting, joyful scientific curiosity.
+Constraints: Only exact title above. No other text, no badges, no logo, no border, no watermark. No horror, no fangs, no trapped animals or feeding, no photorealistic creepy spider. Deliver one finished 16:9 thumbnail.
+
