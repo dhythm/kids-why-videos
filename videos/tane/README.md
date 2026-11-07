@@ -25,7 +25,7 @@
 - 2D: SVG + React（Remotion）
 - BGM: Python（numpy）で合成
 - ナレーション: ElevenLabs `eleven_v4`（声: Sameno）。せりふごとに べつべつに 生成し、あたまと おしりの むおんを きって みじかく フェード
-- サムネイル: `thumbnail.png` / `thumbnail.jpg`（Remotion の `Thumbnail` コンポジションから `remotion still` で書き出し）
+- サムネイル: `thumbnail-youtube.png` / `thumbnail-youtube.jpg`（Remotion の `Thumbnail` コンポジションを `remotion still` で書き出した絵を参照画像にして画像生成。プロンプトは `thumbnail-youtube-prompt.txt`）
 
 ## 必要なもの
 
@@ -41,7 +41,7 @@ npm run bgm      # BGM を生成（プレビューの前に 1 回）
 npm run dev      # Remotion Studio でプレビュー
 npm run render   # BGM を生成して out/tane.mp4 に書き出し
 npm test         # タイミング計算のテスト（せりふが かさならないか・シーンから はみださないか）
-npx remotion still src/index.ts Thumbnail thumbnail.png   # サムネイル
+npx remotion still src/index.ts Thumbnail thumbnail.png   # サムネイルの参照画像
 ```
 
 python3 に numpy が ないときは `uv run --no-project --with numpy python scripts/make_bgm.py public/bgm.wav` でも作れます。
