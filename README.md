@@ -14,6 +14,7 @@
 | うずしおって なあに？ | [videos/uzushio](videos/uzushio) |
 | くものすって どうやって つくるの？ | [videos/kumonosu](videos/kumonosu) |
 | しゅわって なあに？ | [videos/shuwa](videos/shuwa) |
+| たねは どこに あるの？（かぼちゃと ネギ） | [videos/tane](videos/tane) |
 
 ## 使いかた
 
