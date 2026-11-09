@@ -16,6 +16,7 @@
 | しゅわって なあに？ | [videos/shuwa](videos/shuwa) |
 | たねは どこに あるの？（かぼちゃと ネギ） | [videos/tane](videos/tane) |
 | ヨーグルトを たべると、どうして うんちが でやすく なるの？ | [videos/yogurt](videos/yogurt) |
+| なっとうは どうして ネバネバ なの？ | [videos/natto](videos/natto) |
 
 ## 使いかた
 
