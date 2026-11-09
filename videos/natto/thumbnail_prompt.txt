@@ -1,0 +1,15 @@
+生成方法: built-in image_gen
+用途: YouTube サムネイル
+納品サイズ: 1280x720（PNG / JPEG）
+参照画像: videos/shuwa/thumbnail.jpg（画風のみ）
+
+Use case: ads-marketing
+Asset type: Finished Japanese YouTube thumbnail for a preschool educational video. Wide landscape, exactly 16:9, 1536x864.
+Primary request: An appealing thumbnail for the existing video "なっとうは どうして ネバネバなの？", about why fermented soybeans have stretchy sticky threads.
+Input image: The provided thumbnail is a STYLE REFERENCE ONLY. Match the polished textured Japanese picture-book gouache illustration, adorable rounded child face, giant rounded Japanese lettering with thick white outline and dark navy drop shadow. Create entirely new subject matter.
+Scene: warm creamy yellow backdrop with a few soft sunny rays, simple and uncluttered; a light wooden tabletop at the bottom.
+Subject: One curious young Japanese child on the left, short dark brown hair and golden yellow shirt, waist-up, large delighted astonished expression watching the sticky natto. On the right, a large inviting blue-and-white ceramic bowl full of recognizably golden-brown glossy natto beans. A pair of wooden chopsticks lifts a small cluster of beans high above the bowl. Many long thin translucent cream sticky threads visibly stretch between the lifted beans and the bowl. Emphasize the delicious natto and very long stretchy threads. A small friendly turquoise rod-shaped natto microbe mascot near the bowl can reinforce the educational theme, without any text.
+Composition: The upper 43 percent carries the huge headline, all safely inside the frame. Lower 57 percent features large child face on left and close-up natto bowl and lifted chopsticks on right; threads extend from the right-middle down to the bowl. The headline never obscures the child's face or the important stretch of threads. Crop body at lower frame. Leave the lower-right corner free of critical detail for YouTube duration overlay.
+Text (verbatim): First line "なっとうは どうして" in vivid royal blue, second line "ネバネバ？" in vibrant orange. The second line is dominant and extremely bold. Use correct exact Japanese text, rounded extra-bold type, thick white outlines and navy drop shadows for excellent small-size readability. 4 percent safe margins for all text.
+Style: Rich clean hand-painted gouache, gently textured paper, simple strong forms, cheerful curiosity; professionally designed for children ages 4–6 and their parents.
+Constraints: Only exact title text above. No labels, no other text, no logo, no watermark, no frame. One finished 16:9 thumbnail. The chopsticks are two distinct wooden sticks with beans at their lower tips; no fork or spoon; no bizarre fingers. Make the natto threads clearly legible against the background.
