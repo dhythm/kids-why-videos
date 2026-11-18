@@ -17,6 +17,7 @@
 | たねは どこに あるの？（かぼちゃと ネギ） | [videos/tane](videos/tane) |
 | ヨーグルトを たべると、どうして うんちが でやすく なるの？ | [videos/yogurt](videos/yogurt) |
 | なっとうは どうして ネバネバ なの？ | [videos/natto](videos/natto) |
+| ばんそうこうは なんで はるの？ | [videos/bansoko](videos/bansoko) |
 | あそぶ じかんは どこに いったの？ | [videos/jikan](videos/jikan) |
 
 ## 使いかた

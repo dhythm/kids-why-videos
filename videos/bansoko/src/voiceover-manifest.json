@@ -1,0 +1,114 @@
+{
+  "s01_a": {
+    "duration": 4.747392,
+    "hash": "18d3a05aee84"
+  },
+  "s01_b": {
+    "duration": 2.464603,
+    "hash": "343cfb96aea7"
+  },
+  "s01_c": {
+    "duration": 3.358503,
+    "hash": "f6f6ed452d9c"
+  },
+  "s02_a": {
+    "duration": 2.98322,
+    "hash": "a247633bae49"
+  },
+  "s02_b": {
+    "duration": 2.737302,
+    "hash": "9580d6b49327"
+  },
+  "s02_c": {
+    "duration": 2.932948,
+    "hash": "3591f7800b96"
+  },
+  "s03_a": {
+    "duration": 4.76712,
+    "hash": "de63350c7888"
+  },
+  "s03_b": {
+    "duration": 4.410952,
+    "hash": "bc9ec615218c"
+  },
+  "s03_c": {
+    "duration": 2.945488,
+    "hash": "d446dd6fb1d6"
+  },
+  "s04_a": {
+    "duration": 2.897846,
+    "hash": "a408220cb8f4"
+  },
+  "s04_b": {
+    "duration": 4.949592,
+    "hash": "d4be9dc09334"
+  },
+  "s04_c": {
+    "duration": 3.999524,
+    "hash": "3f177bd2dd3b"
+  },
+  "s05_a": {
+    "duration": 5.852494,
+    "hash": "fd134cbe5d54"
+  },
+  "s05_b": {
+    "duration": 3.292834,
+    "hash": "b656bf75b225"
+  },
+  "s05_c": {
+    "duration": 4.518322,
+    "hash": "5c6cfdfe28b2"
+  },
+  "s05_d": {
+    "duration": 3.090204,
+    "hash": "c64d4a045e1b"
+  },
+  "s06_a": {
+    "duration": 4.107166,
+    "hash": "33ead60c6300"
+  },
+  "s06_b": {
+    "duration": 3.695714,
+    "hash": "6dddb0908f1f"
+  },
+  "s06_c": {
+    "duration": 3.410068,
+    "hash": "c2bbf01f70b0"
+  },
+  "s07_a": {
+    "duration": 3.788821,
+    "hash": "21c10eb8d793"
+  },
+  "s07_b": {
+    "duration": 2.193107,
+    "hash": "c2606bb8e074"
+  },
+  "s07_c": {
+    "duration": 5.209728,
+    "hash": "49956da59c18"
+  },
+  "s08_a": {
+    "duration": 2.979025,
+    "hash": "502dc109f547"
+  },
+  "s08_b": {
+    "duration": 3.795896,
+    "hash": "8592f3580260"
+  },
+  "s08_c": {
+    "duration": 5.521746,
+    "hash": "09cf22333018"
+  },
+  "s09_a": {
+    "duration": 2.554376,
+    "hash": "5009a5513b43"
+  },
+  "s09_b": {
+    "duration": 4.628503,
+    "hash": "aa09861fed63"
+  },
+  "s09_c": {
+    "duration": 4.735238,
+    "hash": "4e612ad91354"
+  }
+}

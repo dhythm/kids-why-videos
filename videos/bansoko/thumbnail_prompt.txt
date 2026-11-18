@@ -1,0 +1,15 @@
+生成方法: built-in image_gen
+画風の参照: ../natto/thumbnail.jpg
+生成元画像: thumbnail.png
+YouTube アップロード用: thumbnail.jpg（1280×720）
+Remotion 表示用: public/thumbnail.jpg（thumbnail.jpg と同一）
+
+Use case: ads-marketing
+Asset type: Finished Japanese YouTube thumbnail for a preschool educational video. Landscape exactly 16:9, 1536x864.
+Primary request: Create a beautifully illustrated, eye-catching thumbnail for the video "ばんそうこうは なんで はるの？", for Japanese children ages 3–6 and their parents. This is a bespoke cover illustration.
+Input image: /Users/yuta.okada/local/dev/kids-why-videos/videos/natto/thumbnail.jpg is a STYLE REFERENCE ONLY. Match the sophisticated gouache picture-book texture, warm expressive child, and exceptionally bold rounded Japanese lettering. Do not include food, bowls, chopsticks, or the reference text.
+Composition: Upper 42 percent: two huge clean headline lines. Lower 58 percent: left side an adorable curious child with short chestnut brown hair, rosy cheeks, yellow shirt, blue shorts, sitting with one bent bare knee visible with a small beige adhesive bandage on it. Child gazes toward the right with an interested open smile. Right center: a single oversized recognizable friendly beige adhesive strip bandage floating diagonally, with rounded ends, subtle perforations and a cream central pad bearing a very simple smiling face. It is the largest illustrated object, close-up and dimensional, occupying most of the right half. Beneath it a small curved peach-colored skin surface suggests a protective roof metaphor; no open wound. Two tiny rounded teal dust/germ cartoon shapes stay outside/beside the bandage, secondary visual accents, not scary. Keep the layout simple with one child and one hero bandage, strong silhouettes, generous separation.
+Style: Premium hand-painted Japanese children's picture book, rounded sculptural forms, warm textured gouache and soft shadowing. Sky blue and pale turquoise background with warm cream glow behind the hero bandage. The warm beige bandage and yellow shirt contrast clearly against cool background. A few sunny curiosity rays only.
+Text (verbatim): line 1 "ばんそうこうは" in rich saturated royal blue; line 2 "なんで はるの？" in bright warm orange. Ultra-bold rounded Japanese typography, thick white outline and dark navy offset shadow. Correct Japanese glyphs, no other words. Text is instantly readable at 320px wide.
+Constraints: One finished full-bleed 16:9 thumbnail. Keep all headline text inside 5 percent safe margins. No borders, badges, logos, watermarks, labels, gore, blood, needles, medical cross, or frightening expressions. No cure claims. Do not cover headline or face. Keep essential objects clear of the bottom-right duration overlay.
+
