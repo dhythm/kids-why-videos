@@ -1,0 +1,15 @@
+生成方法: built-in image_gen
+用途: YouTube サムネイル
+納品サイズ: 1280x720
+
+Use case: ads-marketing
+Asset type: Finished Japanese YouTube thumbnail for an existing preschool educational video. Wide landscape exactly 16:9, ideally 1536x864.
+Primary request: A beautiful, eye-catching, friendly thumbnail for the video "しゅわって なあに？", introducing sign language as language expressed through hands and faces to Japanese children aged 4–6.
+Input image: /Users/yuta.okada/local/dev/kids-why-videos/videos/uzushio/thumbnail.jpg is a STYLE REFERENCE ONLY. Match its polished textured Japanese picture-book illustration, appealing rounded child faces, extremely bold blue and orange Japanese title with thick white outline and navy drop shadow. Create entirely new subject matter.
+Scene: warm bright kindergarten atmosphere with pale mint and sunny cream background, softly painted unobtrusive garden colors, no busy objects. Two happy young Japanese children face slightly toward each other, faces and hands clearly visible, framed from waist up, large and engaging. Left child short dark brown hair, golden yellow top. Right child dark brown bob haircut and green top.
+Subject: Two children communicating with sign language, making warm eye contact and smiling naturally. The yellow-shirt child demonstrates the Japanese sign for thank you: left hand flat and horizontal, back of the hand facing up, at chest height; the pinky edge of the vertical right hand held lightly above/across the back of that horizontal left hand, fingers together, fingertips up, lifting upward. No palms pressed together, no prayer pose. Right child watches with joyful expression, hands relaxed in view. Hands must be anatomically plausible with five fingers, two hands per child. Keep both faces and signing hands completely clear of lettering.
+Composition: Upper 43 percent occupied by huge headline in two lines. Lower 57 percent occupied by the two children, their faces close to middle of frame and hands at lower-middle. Generous 4 percent safe margins around all text. Important hands away from bottom-right duration overlay. Simple strongly readable silhouettes at thumbnail size.
+Text (verbatim): first line "しゅわって", second line "なあに？". Rounded extra-bold Japanese type, "しゅわって" saturated rich royal blue, "なあに？" vivid warm orange, thick white outline, crisp subtle navy offset shadow. Correct exact hiragana. Title prominent but never overlapping the hands or faces.
+Style: Rich clean gouache-textured picture-book illustration, gentle highlights, cheerful curiosity, inclusive respectful portrayal.
+Constraints: Only the exact title text above. No additional labels, no speech text, no symbols pretending to be sign language, no logo, no watermark, no border. One finished 16:9 thumbnail.
+
