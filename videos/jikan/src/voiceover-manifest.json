@@ -1,0 +1,110 @@
+{
+  "s01_a": {
+    "duration": 4.748844,
+    "hash": "a5c0fcdd11ad"
+  },
+  "s01_b": {
+    "duration": 2.848526,
+    "hash": "874e34a1c2b5"
+  },
+  "s01_c": {
+    "duration": 3.145306,
+    "hash": "d3c39eb3d9fd"
+  },
+  "s02_a": {
+    "duration": 2.62898,
+    "hash": "5743600eb448"
+  },
+  "s02_b": {
+    "duration": 2.802993,
+    "hash": "da4349d4d7fe"
+  },
+  "s02_c": {
+    "duration": 3.68746,
+    "hash": "c9fcfff4455c"
+  },
+  "s03_a": {
+    "duration": 3.851587,
+    "hash": "f03396e86127"
+  },
+  "s03_b": {
+    "duration": 4.933764,
+    "hash": "7c474ddaa40f"
+  },
+  "s03_c": {
+    "duration": 2.338594,
+    "hash": "d63790bb7d07"
+  },
+  "s04_a": {
+    "duration": 5.306803,
+    "hash": "0ae64ef865dc"
+  },
+  "s04_b": {
+    "duration": 3.275646,
+    "hash": "4f1aaa11c6a5"
+  },
+  "s04_c": {
+    "duration": 2.561066,
+    "hash": "e4ce82fa7fe8"
+  },
+  "s05_a": {
+    "duration": 3.191429,
+    "hash": "6c2273b9f8b7"
+  },
+  "s05_b": {
+    "duration": 3.373061,
+    "hash": "3116458e5433"
+  },
+  "s05_c": {
+    "duration": 4.759229,
+    "hash": "1bc7e7707f9d"
+  },
+  "s06_a": {
+    "duration": 4.351701,
+    "hash": "1141478f5446"
+  },
+  "s06_b": {
+    "duration": 2.530862,
+    "hash": "6bbf3857b29d"
+  },
+  "s06_c": {
+    "duration": 4.505941,
+    "hash": "b7fd5be2d571"
+  },
+  "s07_a": {
+    "duration": 3.362562,
+    "hash": "8791b72e5eba"
+  },
+  "s07_b": {
+    "duration": 3.341814,
+    "hash": "5a2b19570383"
+  },
+  "s07_c": {
+    "duration": 4.355465,
+    "hash": "40f19b230278"
+  },
+  "s08_a": {
+    "duration": 4.996281,
+    "hash": "38c79a82ecab"
+  },
+  "s08_b": {
+    "duration": 4.004127,
+    "hash": "5a141dfc59d7"
+  },
+  "s08_c": {
+    "duration": 3.511565,
+    "hash": "72167a71f9eb"
+  },
+  "s09_a": {
+    "duration": 3.071043,
+    "hash": "ca46602e98c8"
+  },
+  "s09_b": {
+    "duration": 4.168209,
+    "hash": "c05039b55343"
+  },
+  "s09_c": {
+    "duration": 3.841066,
+    "hash": "6d21a195609f"
+  }
+}

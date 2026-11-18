@@ -1,0 +1,13 @@
+生成方法: built-in image_gen
+用途: YouTube サムネイル
+納品サイズ: 1280x720
+参照画像: ../bansoko/thumbnail.jpg（画風）、Remotion の Thumbnail（題材）
+
+Use case: ads-marketing
+Asset type: finished Japanese YouTube thumbnail for preschool educational series, 16:9 wide landscape, target exact ratio 16:9 (e.g. 1536×864). Maintain 5% safe margins for headline.
+Input images: Image 1 (Bansoko JPG) is a series STYLE reference only, for its hand-painted picture-book texture, bright cyan palette, orange/blue lettering with a white keyline and navy shadow. Image 2 (Jikan prior graphic) is a SUBJECT reference only, for the child in a yellow sweatshirt, coral alarm clock character and blue and gold time blocks. Create a wholly new, full-bleed, high-end original illustration for the Jikan episode.
+Story: a preschooler wonders where playtime went. Show a large, expressive, curious Japanese preschool boy with short warm brown hair and a yellow sweatshirt on the lower left, gazing toward the golden playtime block with eyes wide and an endearing small open mouth. On the lower right, show a large friendly coral twin-bell alarm clock, cream dial, simple accurate clock hands, tiny eyes and smile below the dial center. A simple short row of four chunky square wooden time blocks across the lower middle, three sky-blue and one glowing gold with a white four-point sparkle, the gold block the clear visual focus. Airy turquoise gouache sky, little warm sunlit ivory playroom surface, hand-painted textures and bold distinct silhouettes. Keep toys or background objects out of the composition. Joyful discovery and curiosity, not distressed.
+Typography is the main hierarchy, centered, bold, huge rounded Japanese display lettering, occupying the upper 46 percent and readable at mobile thumbnail scale. First line deep saturated royal blue, second line vivid warm orange, with a thick white keyline and tight dark-navy offset shadow. Typeset exactly these two lines, with the single word-break spaces shown, entirely in hiragana with the final question mark:
+「あそぶ じかんは」
+「どこに いったの？」
+The Japanese corner quotes are delimiters and must not appear in the image. No other words, glyphs, logo, or watermark. Make the child's eyes, time block and clock face distinct. Leave lower right edge clear for YouTube duration overlays. Do not crowd text against edges. One finished thumbnail.
