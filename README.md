@@ -19,6 +19,7 @@
 | なっとうは どうして ネバネバ なの？ | [videos/natto](videos/natto) |
 | ばんそうこうは なんで はるの？ | [videos/bansoko](videos/bansoko) |
 | あそぶ じかんは どこに いったの？ | [videos/jikan](videos/jikan) |
+| はなぢは どうして でるの？ | [videos/hanaji](videos/hanaji) |
 
 ## 使いかた
 

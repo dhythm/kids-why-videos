@@ -1,0 +1,114 @@
+{
+  "s01_a": {
+    "duration": 4.030181,
+    "hash": "04d8fcd5a1d2"
+  },
+  "s01_b": {
+    "duration": 3.269161,
+    "hash": "fa8a1680ef7b"
+  },
+  "s01_c": {
+    "duration": 2.825397,
+    "hash": "5425af382718"
+  },
+  "s02_a": {
+    "duration": 3.912472,
+    "hash": "04684707ba39"
+  },
+  "s02_b": {
+    "duration": 4.800204,
+    "hash": "be837e481def"
+  },
+  "s02_c": {
+    "duration": 4.74254,
+    "hash": "8195e9d8e602"
+  },
+  "s03_a": {
+    "duration": 3.913197,
+    "hash": "87868ebc5ac0"
+  },
+  "s03_b": {
+    "duration": 4.03059,
+    "hash": "a9b3e0ad3166"
+  },
+  "s03_c": {
+    "duration": 5.173311,
+    "hash": "47f2920c43cd"
+  },
+  "s04_a": {
+    "duration": 2.514807,
+    "hash": "0082a3827d14"
+  },
+  "s04_b": {
+    "duration": 4.285147,
+    "hash": "e519de232241"
+  },
+  "s04_c": {
+    "duration": 5.076009,
+    "hash": "1d7fe198818f"
+  },
+  "s04_d": {
+    "duration": 3.897732,
+    "hash": "cb7dece6cefc"
+  },
+  "s05_a": {
+    "duration": 3.128866,
+    "hash": "1dfef235336e"
+  },
+  "s05_b": {
+    "duration": 6.105601,
+    "hash": "8e097132c598"
+  },
+  "s05_c": {
+    "duration": 4.806281,
+    "hash": "55f2a07494fb"
+  },
+  "s06_a": {
+    "duration": 3.966893,
+    "hash": "816446a81544"
+  },
+  "s06_b": {
+    "duration": 3.670045,
+    "hash": "5ee2676d908a"
+  },
+  "s06_c": {
+    "duration": 4.10229,
+    "hash": "8afec0a56090"
+  },
+  "s07_a": {
+    "duration": 2.074444,
+    "hash": "775758610d02"
+  },
+  "s07_b": {
+    "duration": 3.247324,
+    "hash": "6729d6b9e395"
+  },
+  "s07_c": {
+    "duration": 2.974467,
+    "hash": "b2d7a8692e88"
+  },
+  "s08_a": {
+    "duration": 4.288821,
+    "hash": "6916cf55c130"
+  },
+  "s08_b": {
+    "duration": 3.645261,
+    "hash": "ac02b33b001b"
+  },
+  "s08_c": {
+    "duration": 2.658481,
+    "hash": "f9c2ae5740d9"
+  },
+  "s09_a": {
+    "duration": 3.013424,
+    "hash": "5b6822e1240f"
+  },
+  "s09_b": {
+    "duration": 3.084308,
+    "hash": "608c229fe3b7"
+  },
+  "s09_c": {
+    "duration": 3.530136,
+    "hash": "d35155615084"
+  }
+}

@@ -1,0 +1,17 @@
+生成方法: built-in image_gen
+画風の参照: ../bansoko/thumbnail.jpg
+生成元画像: thumbnail.png
+YouTube アップロード用: thumbnail.jpg（1280×720）
+
+初回の 生成プロンプト
+
+Use case: ads-marketing
+Asset type: Finished full-bleed 16:9 Japanese YouTube thumbnail for a preschool science video. Wide landscape.
+Reference image: the attached bandage thumbnail is only a style reference. Match its tactile hand-painted gouache picture-book look, warm expressive child, bold outlined hiragana, and clean image hierarchy.
+Text (verbatim, exactly two lines): “はなぢは” / “どうして でるの？” Center both lines in the upper 44% of the image. Line 1 is saturated scarlet-red, line 2 is vivid royal blue. Both lines use extremely thick bubbly rounded hiragana, generous white outlines and a thin deep navy shadow. The third letter in line 1 is ぢ with dakuten, and line 2 starts with ど. Render the exact wording. No other words. Leave generous safe margins above and along both sides.
+Composition: The lower half has a big charming Japanese preschool boy with chestnut brown hair, rosy cheeks and a sunshine-yellow shirt, a close-up at center-right facing slightly left, looking mildly surprised with a small round mouth. Clearly show exactly one small simple red cartoon teardrop immediately under one nostril, separate from and above the mouth. Keep the drop graphically simple, easy to spot, and gentle. To the left, one smaller cheerful “repair helper” from the video, a round ivory mascot with two simple round arms, bright yellow construction helmet and dot eyes, holding up a small rounded coral patch. The boy, the nose, and the drop are the main focus. Keep the face entirely clear of the lettering and duration-overlay area. Give the subjects clean distinct silhouettes.
+Art direction: warm textured, polished gouache children's picture-book illustration. Sky blue and mint/turquoise backdrop, a soft cream-yellow glow framing the two subjects, a few playful short accent rays. Cheerful and curious tone, suitable for ages 3–6. Keep it simple and striking on a phone. No medical advice text, no realism in the drop, no injury detail, no stains, no crying or fear. No bandages, microbes, copied lettering, borders, badges, logos or watermarks.
+
+調整の プロンプト（初回の 生成画像を 参照）
+
+Refine this exact Japanese YouTube thumbnail. Keep the same hand-painted gouache style, sky blue and mint background, two characters, colors, and wide 16:9 framing. Make only these small changes: (1) scale down the headline as a group by approximately 8% about its center, placing it to leave a clearly visible 4% tall strip of blue background above every letter including the red dakuten and its white outline. Keep both lines large and centered, with the exact same text: first line “はなぢは” in red, second line “どうして でるの？” in blue. Preserve bold white outlines and navy shadows. (2) Make the small rounded coral patch held by the mascot a simple solid matte salmon-pink tile, removing the perforations and edge seam. Preserve the boy, his mild surprise and the single small illustrated red teardrop under his nose. No new text or objects.
